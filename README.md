@@ -1,0 +1,2 @@
+# samplewebsiteforcognitiveservices
+samplewebsiteforcognitiveservices
